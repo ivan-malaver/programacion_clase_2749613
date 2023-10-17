@@ -1,0 +1,6 @@
+x = int (input("escriba un numero para realizar comparacion con algunos parametros:"))
+y = int (input("escriba un numero para realizar comparacion con algunos parametros:"))
+print (x < y)
+print (x > y)
+print (x >=y)
+print (x <= y)
