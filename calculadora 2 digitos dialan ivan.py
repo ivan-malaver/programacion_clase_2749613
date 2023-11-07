@@ -22,7 +22,7 @@ match operacion:
        res = A**B 
        print ("la potencia es: ",res) 
     case "6":
-       res = A*(1/B) 
+       res = A**(1/B) 
        print ("la raiz es: ",res) 
     case "7":
       res = (A**B) +(A**B) 
